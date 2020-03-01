@@ -1,2 +1,71 @@
 # CoderDojo
 ING CoderDojo projects
+
+
+<B>Waveshare Alphabot2: </B> <BR>
+<IMG SRC="https://www.waveshare.com/w/thumb.php?f=AlphaBot2-for-micro-bit-6.jpg&width=300">
+- Github extension:
+https://github.com/waveshare/pxt-AlphaBot2
+- User Manual
+https://www.waveshare.com/w/upload/b/b0/Alphabot2_for_microbit_User_Manual_EN.pdf
+- WIKI
+https://www.waveshare.com/wiki/AlphaBot2_for_micro:bit
+
+<B>DFRobot Maqueen:</B> <BR>
+ <IMG SRC="https://raw.githubusercontent.com/DFRobot/DFRobotMediaWikiImage/master/Image/LED_Light_Flash.gif">
+- WIKI
+  https://wiki.dfrobot.com/micro:Maqueen_for_micro:bit_SKU:ROB0148-E(ROB0148)
+- Extension https://github.com/DFRobot/pxt-maqueen (you can search for it in Makecode Extension search - official library)
+- FUN activities (PDF manual)
+ https://github.com/DFRobot/Silly-Maqueen-Makecode/blob/master/Silly%20Maqueen-Makecode-V1.0-2019-11-20-EN.pdf
+- Programming Manual (PDF)
+ https://github.com/liliang9693/mindplus-docs/blob/master/maqueen/Maqueen%20%26%20microbit%20Graphical%20Programming.pdf
+- Crazy Maqueen Tutorial (PDF)
+https://github.com/liliang9693/mindplus-docs/blob/master/maqueen/Crazy%20Maqueen-Tutorial.pdf
+
+
+<B>Microbit</B>
+- new firmware (to Pair in Chrome to download faster)
+https://microbit.org/guide/firmware/
+- Bluetooth with Microbit:
+https://www.waveshare.com/wiki/Chapter_8_of_KitiBot-Microbit
+- Bluetooth APK for Android
+https://www.waveshare.com/w/upload/d/da/Com-bluetooth-mwoolley-microbitbledemo.7.rar
+
+
+<B>Waveshare Servo Driver (16 servos Only)</B><BR>
+<IMG SRC="https://www.waveshare.com/w/thumb.php?f=Servo-Driver-for-micro-bit-1.jpg&width=300">
+- User Manual:
+https://www.waveshare.com/w/upload/6/64/Servo_Driver_for_microbit_User_Manual_en.pdf
+- Extension:
+https://github.com/waveshare/pxt-Servo
+- WIKI:
+https://www.waveshare.com/wiki/Servo_Driver_for_micro:bit
+
+<B>Waveshare Joystick</B><BR>
+<IMG SRC="https://www.waveshare.com/w/thumb.php?f=Joystick-for-micro-bit-1.jpg&width=300">
+ - WIKI & user manual
+  https://www.waveshare.com/wiki/Joystick_for_micro:bit
+- Extension:
+  https://github.com/waveshare/JoyStick
+  
+  
+<B>DFRobot Motor & Servo Driver</B><BR>
+<IMG SRC="https://raw.githubusercontent.com/DFRobot/DFRobotMediaWikiImage/master/Image/Microbit_Driver_Expansion_Board_DFR0548_1.jpg">
+- WIKI
+  https://wiki.dfrobot.com/Micro_bit_Driver_Expansion_Board_SKU_DFR0548
+- Extension
+  https://github.com/DFRobot/pxt-motor
+  
+<B>Waveshare Spaker</B><BR>
+  <IMG SRC="https://www.waveshare.com/w/thumb.php?f=Speaker-for-micro-bit-1.jpg&width=300">
+- WIKI & user manual
+  https://www.waveshare.com/wiki/Speaker_for_micro:bit
+    
+<B>Waveshare Display LED</B><BR>
+  <IMG SRC="https://www.waveshare.com/w/thumb.php?f=1.8inch-LCD-for-micro-bit-1.jpg&width=300">
+- WIKI & user manual
+ https://www.waveshare.com/wiki/1.8inch_LCD_for_micro:bit
+- Extension
+  https://github.com/waveshare/WSLCD1in8
+  

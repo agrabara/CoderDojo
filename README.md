@@ -69,3 +69,7 @@ https://www.waveshare.com/wiki/Servo_Driver_for_micro:bit
 - Extension
   https://github.com/waveshare/WSLCD1in8
   
+<B> Micro:bit experiments</B><BR>
+ https://www.teachwithict.com/physical-computing.html?fbclid=IwAR3_8MPcRKqqQ5gkm9xsypc21XMMvQFN7lDpSoeSjXpXxpiKPz_snMHSYCY
+ 
+ 

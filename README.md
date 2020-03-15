@@ -70,6 +70,27 @@ https://www.waveshare.com/wiki/Servo_Driver_for_micro:bit
   https://github.com/waveshare/WSLCD1in8
   
 <B> Micro:bit experiments</B><BR>
- https://www.teachwithict.com/physical-computing.html?fbclid=IwAR3_8MPcRKqqQ5gkm9xsypc21XMMvQFN7lDpSoeSjXpXxpiKPz_snMHSYCY
+https://www.teachwithict.com/physical-computing.html 
+
+<B> Micro:bit Hackster project</B><BR>
+https://www.hackster.io/microbit
  
+ <B> Micro:bit Lancaster university DOCs</B><BR>
+ - Intro 
+ https://lancaster-university.github.io/microbit-docs/
+ - Events handling
+ https://lancaster-university.github.io/microbit-docs/concepts/#events
  
+ <B> Micro:bit LCD 1602</B><BR>
+ <IMG SRC="https://botland.com.pl/8455-large_default/wyswietlacz-lcd-2x16-znakow-niebieski-konwerter-i2c-lcm1602.jpg">
+ - whole LIBs in CPP program
+ https://os.mbed.com/users/suntopbd/code/uBitwithMbed/
+ - LCD in CPP program 
+  https://os.mbed.com/users/simon/code/TextLCD//file/308d188a2d3a/TextLCD.cpp/
+  
+  
+  <B> Micro:bit PIT motion sensor</B><BR>
+ <IMG SRC="https://ae01.alicdn.com/kf/He752df48991c4b6ca53bba6d318b6332h/HC-SR501-regulacja-IR-piroelektryczny-czujnik-ruchu-pir-na-podczerwie-modu-detektora-dla-arduino-dla-raspberry.jpg" height=142 width=142><BR>
+ https://www.teachwithict.com/pir.html
+  
+  

@@ -123,7 +123,14 @@ https://wiki.dfrobot.com/IO_Extender_for_micro%3Abit%20(V1.0)_SKU%3A_MBT0008
   
 <B> Micro:bit - czujnik temperatury i wilgotności DTH11 </B><BR>
  <IMG SRC="https://nettigo.pl/system/images/3101/original.JPG?1542361821" width=300><BR>
-- Extension do MakeCode
+- Extension do MakeCode DTH11 - na podstawie MonadnockSystems/pxt-dht11
+  https://github.com/agrabara/pxt-dht11
+- Extension do MakeCode DTH11 - MonadnockSystems/pxt-dht11  
+  https://github.com/MonadnockSystems/pxt-dht11
+- Extension do MakeCodez dużą ilością innych sensorów
   https://github.com/elecfreaks/pxt-environment
-- Projekt przykładowy
-  
+- Projekt przykładowy - jak podłączyć  
+  https://osoyoo.com/2018/09/20/micro-bit-lesson-dispaly-the-temperature-and-humidity-on-the-i2c-1602-lcd-screen/
+- Przykładowy program
+https://github.com/agrabara/pxt-humidity-temperature
+

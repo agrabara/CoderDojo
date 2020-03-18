@@ -134,3 +134,12 @@ https://wiki.dfrobot.com/IO_Extender_for_micro%3Abit%20(V1.0)_SKU%3A_MBT0008
 - Przykładowy program
 https://github.com/agrabara/pxt-humidity-temperature
 
+<B> Micro:bit - czujnik gazu MQ-2</B><BR>
+ <IMG SRC="https://www.waveshare.com/w/thumb.php?f=MQ-2-Gas-Sensor_l.jpg&width=300"><BR>
+- WIKI
+  https://www.waveshare.com/wiki/MQ-2_Gas_Sensor
+- Materiały różne <BR>
+  http://wiki.seeedstudio.com/Grove-Gas_Sensor-MQ2/<BR>
+  https://lastminuteengineers.com/mq2-gas-senser-arduino-tutorial/<BR>
+  https://osoyoo.com/2018/09/18/micro-bit-lesson-using-the-smoke-sensor/ <BR>
+  

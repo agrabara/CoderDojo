@@ -84,13 +84,16 @@ https://www.hackster.io/microbit
  <B> Micro:bit LCD 1602 - podłączenie po i2c</B><BR>
 <IMG SRC="https://botland.com.pl/8455-large_default/wyswietlacz-lcd-2x16-znakow-niebieski-konwerter-i2c-lcm1602.jpg">
 <IMG SRC="https://ae01.alicdn.com/kf/HTB1i.BNKXmWBuNjSspdq6zugXXaP.jpg" height=500 width=500>
+ 
+  - extension do MakeCode - można wyszukać bezpośednio jako extension z makeCode (search) 
+  https://github.com/makecode-extensions/i2cLCD1602
+
+Jeśli chcemy podłączyć się bezpośrednio PINami bez I2C:
 - whole LIBs in CPP program
  https://os.mbed.com/users/suntopbd/code/uBitwithMbed/
  - LCD in CPP program 
   https://os.mbed.com/users/simon/code/TextLCD//file/308d188a2d3a/TextLCD.cpp/
-  - extension do MakeCode
-  https://github.com/makecode-extensions/i2cLCD1602
-  
+
   
   <B> Micro:bit PIR motion sensor</B><BR>
  <IMG SRC="https://ae01.alicdn.com/kf/He752df48991c4b6ca53bba6d318b6332h/HC-SR501-regulacja-IR-piroelektryczny-czujnik-ruchu-pir-na-podczerwie-modu-detektora-dla-arduino-dla-raspberry.jpg" height=142 width=142><BR>

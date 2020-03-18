@@ -121,3 +121,9 @@ https://www.australiancurriculum.edu.au/media/5904/classroom-ideas-7-8-microbit-
 - Wiki
 https://wiki.dfrobot.com/IO_Extender_for_micro%3Abit%20(V1.0)_SKU%3A_MBT0008
   
+<B> Micro:bit - czujnik temperatury i wilgotności DTH11 </B><BR>
+ <IMG SRC="https://nettigo.pl/system/images/3101/original.JPG?1542361821" height=300 width=300><BR>
+- Extension do MakeCode
+  https://github.com/elecfreaks/pxt-environment
+- Projekt przykładowy
+  

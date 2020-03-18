@@ -81,9 +81,10 @@ https://www.hackster.io/microbit
  - Events handling
  https://lancaster-university.github.io/microbit-docs/concepts/#events
  
- <B> Micro:bit LCD 1602</B><BR>
- <IMG SRC="https://botland.com.pl/8455-large_default/wyswietlacz-lcd-2x16-znakow-niebieski-konwerter-i2c-lcm1602.jpg">
- - whole LIBs in CPP program
+ <B> Micro:bit LCD 1602 - podłączenie po i2c</B><BR>
+<IMG SRC="https://botland.com.pl/8455-large_default/wyswietlacz-lcd-2x16-znakow-niebieski-konwerter-i2c-lcm1602.jpg">
+<IMG SRC="https://ae01.alicdn.com/kf/HTB1i.BNKXmWBuNjSspdq6zugXXaP.jpg" height=300 width=300>
+- whole LIBs in CPP program
  https://os.mbed.com/users/suntopbd/code/uBitwithMbed/
  - LCD in CPP program 
   https://os.mbed.com/users/simon/code/TextLCD//file/308d188a2d3a/TextLCD.cpp/

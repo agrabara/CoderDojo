@@ -113,8 +113,7 @@ https://tinkercademy.com/tutorials/security-door/
 https://www.australiancurriculum.edu.au/media/5904/classroom-ideas-7-8-microbit-digital-finish-line.pdf
 
 <B> Micro:bit - DFRobot Extender </B><BR>
- <IMG SRC="https://github.com/Frances9/MBT0008/blob/master/300px-MBT0008.jpg?raw=true
-" height=300 width=300><BR>
+ <IMG SRC="https://github.com/Frances9/MBT0008/blob/master/300px-MBT0008.jpg?raw=true" height=300 width=300><BR>
 - Wiki
 https://wiki.dfrobot.com/IO_Extender_for_micro%3Abit%20(V1.0)_SKU%3A_MBT0008
   

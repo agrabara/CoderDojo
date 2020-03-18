@@ -87,6 +87,8 @@ https://www.hackster.io/microbit
  https://os.mbed.com/users/suntopbd/code/uBitwithMbed/
  - LCD in CPP program 
   https://os.mbed.com/users/simon/code/TextLCD//file/308d188a2d3a/TextLCD.cpp/
+  - extension do MakeCode
+  https://github.com/makecode-extensions/i2cLCD1602
   
   
   <B> Micro:bit PIT motion sensor</B><BR>

@@ -91,8 +91,11 @@ https://www.hackster.io/microbit
   https://github.com/makecode-extensions/i2cLCD1602
   
   
-  <B> Micro:bit PIT motion sensor</B><BR>
+  <B> Micro:bit PIR motion sensor</B><BR>
  <IMG SRC="https://ae01.alicdn.com/kf/He752df48991c4b6ca53bba6d318b6332h/HC-SR501-regulacja-IR-piroelektryczny-czujnik-ruchu-pir-na-podczerwie-modu-detektora-dla-arduino-dla-raspberry.jpg" height=142 width=142><BR>
  https://www.teachwithict.com/pir.html
   
+  <B> Micro:bit opis szyny podłączeniowej </B><BR>
+ <IMG SRC="https://microbit-micropython.readthedocs.io/en/latest/_images/pinout.png" height=142 width=142><BR>
+  https://microbit-micropython.readthedocs.io/en/latest/pin.html
   

@@ -108,3 +108,7 @@ https://tinkercademy.com/tutorials/security-door/
  - inne projekty
  https://tinkercademy.com/microbit/
 
+  <B> Micro:bit - austalijski przykład projeku </B><BR>
+- wyścigi - laserowa linia start/meta
+https://www.australiancurriculum.edu.au/media/5904/classroom-ideas-7-8-microbit-digital-finish-line.pdf
+

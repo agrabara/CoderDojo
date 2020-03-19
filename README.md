@@ -143,3 +143,13 @@ https://github.com/agrabara/pxt-humidity-temperature
   https://lastminuteengineers.com/mq2-gas-senser-arduino-tutorial/<BR>
   https://osoyoo.com/2018/09/18/micro-bit-lesson-using-the-smoke-sensor/ <BR>
   
+<B> Micro:bit - zegar czasu rzeczywistego z baterią RTC1302</B><BR>
+ <IMG SRC="https://botland.com.pl/img/art/inne/14303_2.JPG" width=300><BR>
+- Extension do MakeCode - można wyszukać pod 1302
+  https://github.com/microbit-makecode-packages/DS1302  
+- Materiały różne <BR>
+  https://osoyoo.com/2016/07/26/ds1302_clock_module/<BR>
+- Przykładowy program z LCD1602 I2C
+  https://github.com/agrabara/pxt-clock-2
+- Przykładowy program z OLED 128x64
+  https://github.com/agrabara/pxt-clock-OLED12864

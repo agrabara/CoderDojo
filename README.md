@@ -160,5 +160,7 @@ https://github.com/agrabara/pxt-humidity-temperature
   https://github.com/makecode-extensions/OLED12864_I2C
 - Przykładowy program OLED 128x64
   https://github.com/agrabara/pxt-clock-OLED12864
-
+- Podłączenie do robota Maqueen:
+  https://microbit.hackster.io/taifur/interfacing-oled-display-with-micro-maqueen-robot-69d19a
+  
   

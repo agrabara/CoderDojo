@@ -153,3 +153,12 @@ https://github.com/agrabara/pxt-humidity-temperature
   https://github.com/agrabara/pxt-clock-2
 - Przykładowy program z OLED 128x64
   https://github.com/agrabara/pxt-clock-OLED12864
+
+<B> Micro:bit - wyświetlacz OLED I2C 128x64</B><BR>
+ <IMG SRC="https://ae01.alicdn.com/kf/Hce54f4b2c00d4c2b96997dc01a89f00aY.jpg" width=300><BR>
+- Extension do MakeCode - można wyszukać pod OLED
+  https://github.com/makecode-extensions/OLED12864_I2C
+- Przykładowy program OLED 128x64
+  https://github.com/agrabara/pxt-clock-OLED12864
+
+  

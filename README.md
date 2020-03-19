@@ -163,4 +163,8 @@ https://github.com/agrabara/pxt-humidity-temperature
 - Podłączenie do robota Maqueen:
   https://microbit.hackster.io/taifur/interfacing-oled-display-with-micro-maqueen-robot-69d19a
   
+<B> Micro:bit - MOSFET do sterowania większym napięciem</B><BR>
+ <IMG SRC="https://botland.com.pl/img/art/inne/08236_5.jpg" width=300><BR>
+- materiały różne
+  https://forum.hobbycomponents.com/viewtopic.php?f=76&t=1872
   

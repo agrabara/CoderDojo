@@ -172,7 +172,7 @@ https://github.com/agrabara/pxt-humidity-temperature
  <IMG SRC="https://botland.com.pl/6748-thickbox_default/dagu-dg012-sv-multi-chassis-podwozie-gasienicowe-z-napedem.jpg" width=300>
  <IMG SRC="https://store.roboticsbd.com/3037-large_default/multi-chassis-tank-stair-climber-robotics-bangladesh.jpg" width=300><BR>
   
-- materiały różne 
+- materiały różne: <BR> 
 https://trybotics.com/project/Arduino-sensitive-robot-65229<br>
 https://www.instructables.com/id/Arduino-sensitive-robot/<br>
 http://www.electronhacks.com/2016/12/intel-arduino-101-ble-blynk-tank/#more-925 <br>

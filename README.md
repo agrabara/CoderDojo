@@ -173,6 +173,8 @@ https://github.com/agrabara/pxt-humidity-temperature
  <IMG SRC="https://ae01.alicdn.com/kf/HTB1ZdIIRFXXXXawXpXXq6xXFXXXM/TM1637-modu-wy-wietlacza-led-dla-Arduino-7-Segment-4-bity-0-36-Cal-zegar-czerwona.jpg" width=300><BR>
 - Extension do MakeCode (można wyszukać 1637)
   https://github.com/makecode-extensions/TM1637
+- Przykładowy program
+  https://github.com/agrabara/pxt-clock-LED4x7
   
 <B> Micro:bit - czołg</B><BR>
  <IMG SRC="https://botland.com.pl/6748-thickbox_default/dagu-dg012-sv-multi-chassis-podwozie-gasienicowe-z-napedem.jpg" width=300>

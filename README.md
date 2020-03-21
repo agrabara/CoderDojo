@@ -175,6 +175,9 @@ https://github.com/agrabara/pxt-humidity-temperature
   https://github.com/makecode-extensions/TM1637
 - Przykładowy program
   https://github.com/agrabara/pxt-clock-LED4x7
+- Inne materiały
+  http://uczymy.edu.pl/wp/blog/2016/05/14/wyswietlacz-led-tm1637-uruchomienia/<br>
+  https://robojax.com/learn/arduino/robojax-TM1637_display_manual.pdf<br>
   
 <B> Micro:bit - czołg</B><BR>
  <IMG SRC="https://botland.com.pl/6748-thickbox_default/dagu-dg012-sv-multi-chassis-podwozie-gasienicowe-z-napedem.jpg" width=300>

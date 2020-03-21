@@ -168,6 +168,12 @@ https://github.com/agrabara/pxt-humidity-temperature
 - materiały różne
   https://forum.hobbycomponents.com/viewtopic.php?f=76&t=1872
   
+  
+<B> Micro:bit - Wyśiwetlacz LED 7 segmentowy 0 4 cyfry</B><BR>
+ <IMG SRC="https://ae01.alicdn.com/kf/HTB1ZdIIRFXXXXawXpXXq6xXFXXXM/TM1637-modu-wy-wietlacza-led-dla-Arduino-7-Segment-4-bity-0-36-Cal-zegar-czerwona.jpg" width=300><BR>
+- Extension do MakeCode (można wyszukać 1637)
+  https://github.com/makecode-extensions/TM1637
+  
 <B> Micro:bit - czołg</B><BR>
  <IMG SRC="https://botland.com.pl/6748-thickbox_default/dagu-dg012-sv-multi-chassis-podwozie-gasienicowe-z-napedem.jpg" width=300>
  <IMG SRC="https://store.roboticsbd.com/3037-large_default/multi-chassis-tank-stair-climber-robotics-bangladesh.jpg" width=300><BR>

@@ -169,7 +169,7 @@ https://github.com/agrabara/pxt-humidity-temperature
   https://forum.hobbycomponents.com/viewtopic.php?f=76&t=1872
   
   
-<B> Micro:bit - Wyśiwetlacz LED 7 segmentowy 0 4 cyfry</B><BR>
+<B> Micro:bit - Wyświetlacz LED 7 segmentowy 0 4 cyfry</B><BR>
  <IMG SRC="https://ae01.alicdn.com/kf/HTB1ZdIIRFXXXXawXpXXq6xXFXXXM/TM1637-modu-wy-wietlacza-led-dla-Arduino-7-Segment-4-bity-0-36-Cal-zegar-czerwona.jpg" width=300><BR>
 - Extension do MakeCode (można wyszukać 1637)
   https://github.com/makecode-extensions/TM1637
@@ -178,6 +178,12 @@ https://github.com/agrabara/pxt-humidity-temperature
 - Inne materiały
   http://uczymy.edu.pl/wp/blog/2016/05/14/wyswietlacz-led-tm1637-uruchomienia/<br>
   https://robojax.com/learn/arduino/robojax-TM1637_display_manual.pdf<br>
+  
+  
+<B> Micro:bit - Relay - przełącznik 250V</B><BR>
+  <IMG SRC="https://grobotronics.com/images/companies/1/51AMJ-QP5RL.jpg?1583751420765">
+ - Materiały różne
+  
   
 <B> Micro:bit - czołg</B><BR>
  <IMG SRC="https://botland.com.pl/6748-thickbox_default/dagu-dg012-sv-multi-chassis-podwozie-gasienicowe-z-napedem.jpg" width=300>

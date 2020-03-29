@@ -162,6 +162,18 @@ https://github.com/agrabara/pxt-humidity-temperature
   https://github.com/agrabara/pxt-clock-OLED12864
 - Podłączenie do robota Maqueen:
   https://microbit.hackster.io/taifur/interfacing-oled-display-with-micro-maqueen-robot-69d19a
+- inne projekty
+  https://www.littlebird.com.au/a/how-to/81/0-96-oled-screen-with-micro-bit<br>
+  https://learn.adafruit.com/monochrome-oled-breakouts/wiring-128x64-oleds<br>
+  https://learn.adafruit.com/monochrome-oled-breakouts/arduino-library-and-examples <br>
+  https://github.com/adafruit/Adafruit_SSD1306<br>
+  https://github.com/adafruit/Adafruit-GFX-Library<br>
+  https://www.youtube.com/watch?v=A9EwJ7M7OsI<br>
+  http://en.radzio.dxp.pl/bitmap_converter/<br>
+  https://github.com/fizban99/microbit_ssd1306<br>
+  https://github.com/Afantor/Microbit_SSD1306_OLED<br>
+  
+  
   
 <B> Micro:bit - MOSFET do sterowania większym napięciem</B><BR>
  <IMG SRC="https://botland.com.pl/img/art/inne/08236_5.jpg" width=300><BR>

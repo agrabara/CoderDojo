@@ -15,7 +15,9 @@ https://www.waveshare.com/wiki/AlphaBot2_for_micro:bit
  <IMG SRC="https://raw.githubusercontent.com/DFRobot/DFRobotMediaWikiImage/master/Image/LED_Light_Flash.gif">
 - WIKI
   https://wiki.dfrobot.com/micro:Maqueen_for_micro:bit_SKU:ROB0148-E(ROB0148)
-- Extension https://github.com/DFRobot/pxt-maqueen (you can search for it in Makecode Extension search - official library)
+- Extension https://github.com/DFRobot/pxt-maqueen (you can search for it in Makecode Extension search - official library)<br>
+- sample program with OLED 128x64 SSD1306 i sterowaniem za pomocą pilota IR
+  https://github.com/agrabara/pxt-maqueen-OLED12864-IR <BR>
 - FUN activities (PDF manual)
  https://github.com/DFRobot/Silly-Maqueen-Makecode/blob/master/Silly%20Maqueen-Makecode-V1.0-2019-11-20-EN.pdf
 - Programming Manual (PDF)

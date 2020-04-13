@@ -171,10 +171,11 @@ https://github.com/agrabara/pxt-humidity-temperature
   https://github.com/adafruit/Adafruit_SSD1306<br>
   https://github.com/adafruit/Adafruit-GFX-Library<br>
   https://www.youtube.com/watch?v=A9EwJ7M7OsI<br>
+  https://www.youtube.com/watch?v=7ph5ov56cfg<BR>
   http://en.radzio.dxp.pl/bitmap_converter/<br>
   https://github.com/fizban99/microbit_ssd1306<br>
   https://github.com/Afantor/Microbit_SSD1306_OLED<br>
-  
+  http://www.elektronik-labor.de/Microbit/Microbit10.html<BR>
   
   
 <B> Micro:bit - MOSFET do sterowania większym napięciem</B><BR>

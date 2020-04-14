@@ -176,6 +176,7 @@ https://github.com/agrabara/pxt-humidity-temperature
   https://github.com/fizban99/microbit_ssd1306<br>
   https://github.com/Afantor/Microbit_SSD1306_OLED<br>
   http://www.elektronik-labor.de/Microbit/Microbit10.html<BR>
+  https://www.youtube.com/watch?v=-gvYEqdPp_I <-dla wersji SPI<BR>
   
   
 <B> Micro:bit - MOSFET do sterowania większym napięciem</B><BR>

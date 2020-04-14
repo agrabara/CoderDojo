@@ -210,4 +210,9 @@ https://trybotics.com/project/Arduino-sensitive-robot-65229<br>
 https://www.instructables.com/id/Arduino-sensitive-robot/<br>
 http://www.electronhacks.com/2016/12/intel-arduino-101-ble-blynk-tank/#more-925 <br>
 https://store.roboticsbd.com/robotics-parts/1301-multi-chassis-tank-stair-climber-robotics-bangladesh.html <br>
-  
+ 
+ 
+ <B> Micro:bit - inspiracje inne</B><BR>
+ https://www.i-programmer.info/programming/hardware/9651-getting-started-with-cc-on-the-microbit.html <BR>
+  https://ide.mbed.com/compiler/ <BR>
+ 

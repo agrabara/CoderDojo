@@ -216,3 +216,10 @@ https://store.roboticsbd.com/robotics-parts/1301-multi-chassis-tank-stair-climbe
  https://www.i-programmer.info/programming/hardware/9651-getting-started-with-cc-on-the-microbit.html <BR>
   https://ide.mbed.com/compiler/ <BR>
  
+ <B> CoderDojo - nasze zajęcia</B><BR>
+- 2020.04.18:
+ - gra PONG: https://github.com/agrabara/pxt-pong<BR>
+ - symulator: https://makecode.microbit.org/_0W12fkD7LYwJ
+ 
+ 
+ 

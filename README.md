@@ -219,8 +219,8 @@ https://store.roboticsbd.com/robotics-parts/1301-multi-chassis-tank-stair-climbe
  <B> CoderDojo - nasze zajęcia</B><BR>
 - 2020.04.18:
  <IMG SRC="https://github.com/agrabara/pxt-pong/blob/master/20200418_pong.jpg?raw=true" width=300>
- gra PONG: https://github.com/agrabara/pxt-pong<BR>
- symulator: https://makecode.microbit.org/_0W12fkD7LYwJ<BR>
+ gra PONG: https://github.com/agrabara/pxt-PONG<BR>
+ symulator: https://makecode.microbit.org/_aJafD7EiTLYt<BR>
  
  
  

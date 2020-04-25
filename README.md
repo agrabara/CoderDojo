@@ -217,6 +217,13 @@ https://store.roboticsbd.com/robotics-parts/1301-multi-chassis-tank-stair-climbe
   https://ide.mbed.com/compiler/ <BR>
  
  <B> CoderDojo - nasze zajęcia</B><BR>
+- 2020.04.11:
+ <IMG SRC="https://github.com/agrabara/pxt-SpadajaceKamyki/blob/master/spadajacekamyki.png?raw=true" width=300>
+ gra Spadające Kamyki: https://github.com/agrabara/pxt-SpadajaceKamyki<BR>
+ symulator: -----<BR>
+ <BR>
+ 
+ 
 - 2020.04.18:
  <IMG SRC="https://github.com/agrabara/pxt-PONG/blob/master/pong.png?raw=true" width=300>
  gra PONG: https://github.com/agrabara/pxt-PONG<BR>

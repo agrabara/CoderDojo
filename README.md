@@ -222,5 +222,5 @@ https://store.roboticsbd.com/robotics-parts/1301-multi-chassis-tank-stair-climbe
  gra PONG: https://github.com/agrabara/pxt-PONG<BR>
  symulator: https://makecode.microbit.org/_aJafD7EiTLYt<BR>
  
- 
- 
+ - 2020.04.25:
+ symulator: https://makecode.microbit.org/_PJ7iPgdmwDJM <BR>

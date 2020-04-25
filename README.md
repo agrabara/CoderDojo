@@ -223,4 +223,5 @@ https://store.roboticsbd.com/robotics-parts/1301-multi-chassis-tank-stair-climbe
  symulator: https://makecode.microbit.org/_aJafD7EiTLYt<BR>
  
  - 2020.04.25:
+ <IMG SRC="https://github.com/agrabara/pxf-asteroids/blob/master/asteroids.png?raw=true" width=300>
  symulator: https://makecode.microbit.org/_PJ7iPgdmwDJM <BR>

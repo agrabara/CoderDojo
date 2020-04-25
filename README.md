@@ -220,7 +220,7 @@ https://store.roboticsbd.com/robotics-parts/1301-multi-chassis-tank-stair-climbe
 - 2020.04.11:
  <IMG SRC="https://github.com/agrabara/pxt-SpadajaceKamyki/blob/master/spadajacekamyki.png?raw=true" width=300>
  gra Spadające Kamyki: https://github.com/agrabara/pxt-SpadajaceKamyki<BR>
- symulator: -----<BR>
+ symulator: https://makecode.microbit.org/_JX1fxeKM9VoD<BR>
  <BR>
  
  

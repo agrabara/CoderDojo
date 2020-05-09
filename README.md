@@ -221,6 +221,7 @@ https://store.roboticsbd.com/robotics-parts/1301-multi-chassis-tank-stair-climbe
  <IMG SRC="https://github.com/agrabara/pxt-SpadajaceKamyki/blob/master/spadajacekamyki.png?raw=true" width=300>
  gra Spadające Kamyki: https://github.com/agrabara/pxt-SpadajaceKamyki<BR>
  symulator: https://makecode.microbit.org/_JX1fxeKM9VoD<BR>
+  film: https://youtu.be/TQA3EwweWRE <BR>
  <BR>
  
  
@@ -228,8 +229,17 @@ https://store.roboticsbd.com/robotics-parts/1301-multi-chassis-tank-stair-climbe
  <IMG SRC="https://github.com/agrabara/pxt-PONG/blob/master/pong.png?raw=true" width=300>
  gra PONG: https://github.com/agrabara/pxt-PONG<BR>
  symulator: https://makecode.microbit.org/_aJafD7EiTLYt<BR>
+ film:https://www.youtube.com/watch?v=KEOfMUqwJB8 <BR>
  <BR>
  - 2020.04.25:
  <IMG SRC="https://github.com/agrabara/pxf-asteroids/blob/master/asteroids.png?raw=true" width=300>
  gra Asteroids: https://github.com/agrabara/pxf-asteroids <BR>
  symulator: https://makecode.microbit.org/_PJ7iPgdmwDJM <BR>
+ film: https://www.youtube.com/watch?v=qJL9R_2hXw0 <BR>
+<BR>
+- 2020.05.02 oraz 2020.05.09 
+ <IMG SRC="https://github.com/agrabara/pxt-snake-game/raw/master/snake.png?raw=true" width=300>
+ gra Snake: https://github.com/agrabara/pxt-snake-game <BR>
+ symulator: https://makecode.microbit.org/_7bo1khKKRW8b <BR>
+ film: https://www.youtube.com/watch?v=r90Xyhe7YW8 <BR>
+  

@@ -237,9 +237,11 @@ https://store.roboticsbd.com/robotics-parts/1301-multi-chassis-tank-stair-climbe
  symulator: https://makecode.microbit.org/_PJ7iPgdmwDJM <BR>
  film: https://www.youtube.com/watch?v=qJL9R_2hXw0 <BR>
 <BR>
-- 2020.05.02 oraz 2020.05.09 
+- 2020.05.02  2020.05.09 oraz 2020.05.16 (dokończenie) 
  <IMG SRC="https://github.com/agrabara/pxt-snake-game/raw/master/snake.png?raw=true" width=300>
  gra Snake: https://github.com/agrabara/pxt-snake-game <BR>
  symulator: https://makecode.microbit.org/_7bo1khKKRW8b <BR>
  film: https://www.youtube.com/watch?v=r90Xyhe7YW8 <BR>
+  
+ 
   

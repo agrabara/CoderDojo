@@ -246,7 +246,7 @@ https://store.roboticsbd.com/robotics-parts/1301-multi-chassis-tank-stair-climbe
 <BR>
 - 2020.05.16  2020.05.23 2020.05.30 oraz 2020.06.06 (dokończenie) 
 
- <IMG SRC="https://github.com/agrabara/pxt-gra-battleships/blob/master/statki.png?raw=true"><BR>
+ <IMG SRC="https://github.com/agrabara/pxt-gra-battleships/blob/master/statki.png?raw=true" width=300><BR>
   
 Gra w statki - Battleship: https://github.com/agrabara/pxt-gra-battleships<BR>
 Sumulator -> https://makecode.microbit.org/_Dp4UHxCjXfmv<BR>

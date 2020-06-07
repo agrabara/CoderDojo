@@ -243,5 +243,12 @@ https://store.roboticsbd.com/robotics-parts/1301-multi-chassis-tank-stair-climbe
  symulator: https://makecode.microbit.org/_7bo1khKKRW8b <BR>
  film: https://www.youtube.com/watch?v=r90Xyhe7YW8 <BR>
   
- 
+<BR>
+- 2020.05.16  2020.05.23 2020.05.30 oraz 2020.06.06 (dokończenie) 
+
+ <IMG SRC="https://github.com/agrabara/pxt-gra-battleships/blob/master/statki.png?raw=true"><BR>
   
+Gra w statki - Battleship: https://github.com/agrabara/pxt-gra-battleships<BR>
+Sumulator -> https://makecode.microbit.org/_Dp4UHxCjXfmv<BR>
+Film ->   https://www.youtube.com/watch?v=h113H1CRm54 <BR>
+ 

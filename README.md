@@ -252,3 +252,8 @@ Gra w statki - Battleship: https://github.com/agrabara/pxt-gra-battleships<BR>
 Sumulator -> https://makecode.microbit.org/_Dp4UHxCjXfmv<BR>
 Film ->   https://www.youtube.com/watch?v=h113H1CRm54 <BR>
  
+ <IMG SRC="https://github.com/agrabara/sort_bubble/blob/master/icon_bubblesort.png?raw=true" width=300><BR>
+Sortowanie bąbelkowe : https://github.com/agrabara/sort_bubble<BR>
+Sumulator -> https://makecode.microbit.org/_L3hhEPRhicP4<BR>
+Film ->    <BR>
+

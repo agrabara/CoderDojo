@@ -257,3 +257,9 @@ Sortowanie bąbelkowe : https://github.com/agrabara/sort_bubble<BR>
 Sumulator -> https://makecode.microbit.org/_L3hhEPRhicP4<BR>
 Film ->    <BR>
 
+<IMG SRC="https://github.com/agrabara/sort_bubble/blob/master/icon_bubblesort.png?raw=true" width=300><BR>
+Sortowanie przez wybieranie : https://github.com/agrabara/sort_select<BR>
+Sumulator -> https://makecode.microbit.org/_HcACkefR5FJb <BR>
+Film ->    <BR>
+
+
